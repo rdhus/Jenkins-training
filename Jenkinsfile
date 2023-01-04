@@ -1,3 +1,5 @@
+#Jenkins pipeline
+
 pipeline {
     agent { label '' }
     stages {
@@ -8,3 +10,4 @@ pipeline {
         }
     }
 }
+
